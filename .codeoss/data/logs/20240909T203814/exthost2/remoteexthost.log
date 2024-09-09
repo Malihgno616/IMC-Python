@@ -293,3 +293,4 @@ Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-pyth
 2024-09-09 20:39:45.830 [error] No bundle location found for extension googlecloudtools.cloudcode
 2024-09-09 20:39:48.935 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-09-09 20:39:48.936 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-09 21:12:38.494 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
