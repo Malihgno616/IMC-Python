@@ -1,0 +1,90 @@
+2024-09-09 20:39:48.969 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3"
+WARNING:pygls.protocol:Cancel notification for unknown message id "4"
+
+2024-09-09 20:39:48.974 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5"
+
+2024-09-09 20:39:50.648 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "10"
+
+2024-09-09 20:48:24.258 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "637"
+
+2024-09-09 20:50:36.423 [info] Exception in thread Thread-466:
+Traceback (most recent call last):
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 299, in lsp_python_diagnostic
+    compile(source, uri, "exec", PyCF_ONLY_AST)
+  File "file:///home/ackinlino123/IMC.py", line 14
+    peso = float(input("Quantos KG você pesa? "))
+IndentationError: expected an indented block after 'if' statement on line 11
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+
+2024-09-09 20:50:36.426 [info]     self.run()
+  File "/usr/lib/python3.10/threading.py", line 1378, in run
+
+2024-09-09 20:50:36.427 [info]     self.function(*self.args, **self.kwargs)
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 71, in run
+
+2024-09-09 20:50:36.427 [info]     return func(*args, **kwargs)
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/server.py", line 653, in _publish_diagnostics
+
+2024-09-09 20:50:36.427 [info]     diagnostic = jedi_utils.lsp_python_diagnostic(uri, doc.source)
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 320, in lsp_python_diagnostic
+    end=Position(line=until_line, character=until_column),
+  File "<attrs generated init lsprotocol.types.Position>", line 7, in __init__
+
+2024-09-09 20:50:36.428 [info]   File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/lsprotocol/validators.py", line 44, in uinteger_validator
+    raise ValueError(
+ValueError: Position.character should be in range [0:2147483647], but was -1.
+
+2024-09-09 20:50:37.325 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "817"
+
+2024-09-09 20:51:56.724 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "962"
+
+2024-09-09 20:55:26.171 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1272"
+
+2024-09-09 20:55:35.694 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1307"
+
+2024-09-09 20:58:34.681 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1593"
+
+2024-09-09 21:00:13.918 [info] Exception in thread Thread-937:
+Traceback (most recent call last):
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 299, in lsp_python_diagnostic
+
+2024-09-09 21:00:13.919 [info]     compile(source, uri, "exec", PyCF_ONLY_AST)
+  File "file:///home/ackinlino123/IMC.py", line 22
+    peso = float(input("Quantos KG você pesa? "))
+IndentationError: expected an indented block after 'elif' statement on line 19
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+
+2024-09-09 21:00:13.919 [info]     self.run()
+  File "/usr/lib/python3.10/threading.py", line 1378, in run
+
+2024-09-09 21:00:13.920 [info]     self.function(*self.args, **self.kwargs)
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 71, in run
+    return func(*args, **kwargs)
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/server.py", line 653, in _publish_diagnostics
+
+2024-09-09 21:00:13.920 [info]     diagnostic = jedi_utils.lsp_python_diagnostic(uri, doc.source)
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 320, in lsp_python_diagnostic
+
+2024-09-09 21:00:13.920 [info]     end=Position(line=until_line, character=until_column),
+  File "<attrs generated init lsprotocol.types.Position>", line 7, in __init__
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/lsprotocol/validators.py", line 44, in uinteger_validator
+    raise ValueError(
+ValueError: Position.character should be in range [0:2147483647], but was -1.
+
+2024-09-09 21:00:17.385 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1722"
+
+2024-09-09 21:00:25.304 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1740"
+
+2024-09-09 21:04:17.930 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1837"
+
+2024-09-09 21:05:11.408 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1965"
+

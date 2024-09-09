@@ -1,0 +1,52 @@
+2024-09-09 20:38:49.833 [info] Test server listening.
+2024-09-09 20:38:49.833 [info] > conda info --json
+2024-09-09 20:38:49.834 [info] Found: /bin/python --> /usr/bin/python3.10
+2024-09-09 20:38:49.835 [info] Found: /bin/python2 --> /bin/python2.7
+2024-09-09 20:38:49.835 [info] Found: /bin/python2.7 --> /bin/python2.7
+2024-09-09 20:38:49.835 [info] Found: /bin/python3 --> /bin/python3.10
+2024-09-09 20:38:49.835 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-09-09 20:38:49.852 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2024-09-09 20:38:49.852 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2024-09-09 20:38:49.853 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2024-09-09 20:38:49.853 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-09-09 20:38:49.853 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-09-09 20:38:49.901 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2024-09-09 20:38:49.933 [info] > /bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2024-09-09 20:38:49.969 [warning] Error: Command failed: /bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+Unknown option: -I
+usage: /bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+    at ChildProcess.exithandler (node:child_process:422:12)
+    at ChildProcess.emit (node:events:529:35)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:517:28)
+    at Pipe.<anonymous> (node:net:350:12) {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py'
+}
+2024-09-09 20:38:49.969 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-09-09 20:38:49.986 [info] > /bin/python2 /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2024-09-09 20:38:50.008 [info] > /bin/python3 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2024-09-09 20:38:50.043 [info] > /usr/bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2024-09-09 20:38:50.053 [warning] Error: Command failed: /usr/bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+    at ChildProcess.exithandler (node:child_process:422:12)
+    at ChildProcess.emit (node:events:529:35)
+    at maybeClose (node:internal/child_process:1098:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:303:5) {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python2 -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py'
+}
+2024-09-09 20:38:50.053 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2024-09-09 20:38:50.075 [info] > /usr/bin/python2 /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2024-09-09 20:38:50.131 [info] Python interpreter path: /bin/python
+2024-09-09 20:38:52.562 [info] Starting Jedi language server for default.

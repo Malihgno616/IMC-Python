@@ -1,0 +1,228 @@
+2024-09-09 20:39:42.954 [info] Default formatter is set to null for workspace /home/ackinlino123
+2024-09-09 20:39:42.954 [info] Test server listening.
+2024-09-09 20:39:42.954 [info] > hatch env show --json
+2024-09-09 20:39:42.954 [info] cwd: .
+2024-09-09 20:39:42.954 [info] Python interpreter path: /bin/python
+2024-09-09 20:39:42.975 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2024-09-09 20:39:43.160 [info] > pyenv which python
+2024-09-09 20:39:43.160 [info] cwd: .
+2024-09-09 20:39:44.810 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:39:44.833 [info] Starting Jedi language server for ackinlino123.
+2024-09-09 20:39:49.184 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:39:55.666 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:40:17.314 [info] Discover tests for workspace name: undefined - uri: /User/settings.json
+2024-09-09 20:40:29.753 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:40:33.299 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:40:35.885 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:40:37.053 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:40:54.684 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:40:56.625 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:41:30.956 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:41:32.876 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:41:37.713 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:41:39.512 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:41:41.460 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:41:42.906 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:41:44.638 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:41:46.562 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:09.272 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:10.817 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:12.315 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:19.537 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:20.772 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:28.271 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:30.778 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:33.386 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:38.546 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:42.008 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:50.317 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:42:52.412 [info] CreateEnv Trigger - Skipping for /home/ackinlino123/IMC.py
+2024-09-09 20:42:52.449 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:43:12.958 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:43:17.651 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:43:19.138 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:43:20.198 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:43:35.328 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:44:16.807 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:20.267 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:22.876 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:24.802 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:28.199 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:31.396 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:35.939 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:38.518 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:40.692 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:44:40.836 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:45:01.624 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:15.217 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:19.479 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:21.847 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:24.567 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:27.752 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:45.365 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:47.871 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:49.988 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:46:51.684 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:47:02.758 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:47:10.549 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:47:12.014 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:47:13.677 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:47:14.927 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:47:17.183 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:47:20.154 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:47:32.669 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:48:14.464 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:48:19.504 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:48:26.026 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:48:28.627 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:48:32.473 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:48:34.045 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:48:49.636 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:48:50.578 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:49:09.436 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:49:11.644 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:49:11.725 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:49:30.885 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:49:33.350 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:49:53.260 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:09.669 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:14.723 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:16.459 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:17.707 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:21.236 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:23.014 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:25.284 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:27.624 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:32.995 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:35.517 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:37.194 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:39.072 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:47.631 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:49.253 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:53.238 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:50:58.613 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:08.852 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:10.640 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:17.932 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:20.141 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:25.022 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:27.868 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:45.453 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:47.684 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:49.503 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:55.467 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:51:58.460 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:52:01.809 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:52:04.410 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:52:16.563 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:52:17.854 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:52:20.375 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:02.785 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:04.024 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:22.016 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:24.708 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:27.926 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:32.552 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:41.861 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:49.396 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:52.989 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:53:58.000 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:54:05.703 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:54:12.562 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:54:16.608 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:54:32.488 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:54:37.650 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:54:43.085 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:54:44.638 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:54:44.725 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:54:49.760 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:55:18.927 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:21.932 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:23.259 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:25.561 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:29.876 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:34.802 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:37.434 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:39.867 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:44.754 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:47.324 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:55:50.356 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:56:04.914 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:56:08.251 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:56:13.901 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:56:25.866 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:56:27.262 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:56:31.730 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:56:33.056 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:56:36.548 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:56:38.123 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:56:43.648 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:57:08.857 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:57:12.955 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:57:14.782 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:57:17.318 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:57:21.624 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:57:38.321 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:57:41.856 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:57:44.405 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:57:46.601 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:03.221 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:05.350 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:06.538 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:13.178 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:15.238 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:19.571 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:20.818 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:23.743 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:29.339 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:31.343 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:33.806 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:36.373 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:37.720 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:39.933 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:47.858 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:58:59.724 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:59:02.246 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py
+2024-09-09 20:59:21.323 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:59:25.013 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:59:26.957 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:59:51.437 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 20:59:54.857 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:02.674 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:07.379 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:14.683 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:17.324 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:19.704 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:24.933 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:27.831 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:30.349 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:32.284 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:42.074 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:00:43.600 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:03.550 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:05.424 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:20.139 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:26.053 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:27.276 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:32.218 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:33.641 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:34.845 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:40.562 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:04:42.125 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:05.595 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:10.161 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:13.328 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:19.958 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:22.309 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:23.602 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:25.601 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:30.017 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:32.354 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:34.122 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:35.823 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:42.797 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:45.372 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:48.410 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:05:53.941 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:06:05.846 [info] Discover tests for workspace name: ackinlino123 - uri: /home/ackinlino123/IMC.py
+2024-09-09 21:06:18.237 [info] Send text to terminal: /bin/python /home/ackinlino123/IMC.py

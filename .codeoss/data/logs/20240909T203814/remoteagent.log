@@ -1,0 +1,26 @@
+2024-09-09 20:38:14.287 [info] 
+
+
+
+
+2024-09-09 20:38:14.287 [info] Extension host agent started.
+2024-09-09 20:38:14.289 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ackinlino123/.codeoss/extensions
+2024-09-09 20:38:14.318 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ackinlino123/.codeoss/extensions
+2024-09-09 20:38:17.944 [info] [127.0.0.1][02d679f0][ManagementConnection] New connection established.
+2024-09-09 20:38:18.202 [info] [127.0.0.1][6e87862f][ExtensionHostConnection] New connection established.
+2024-09-09 20:38:20.929 [info] [127.0.0.1][6e87862f][ExtensionHostConnection] <1166> Launched Extension Host Process.
+2024-09-09 20:39:35.017 [info] [127.0.0.1][02d679f0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-09 20:39:35.109 [info] [127.0.0.1][6e87862f][ExtensionHostConnection] <1166> Extension Host Process exited with code: 0, signal: null.
+2024-09-09 20:39:37.501 [info] [127.0.0.1][27a69d9c][ManagementConnection] New connection established.
+2024-09-09 20:39:37.794 [info] [127.0.0.1][fe8376ad][ExtensionHostConnection] New connection established.
+2024-09-09 20:39:37.809 [info] [127.0.0.1][fe8376ad][ExtensionHostConnection] <1637> Launched Extension Host Process.
+2024-09-09 20:40:11.803 [info] Getting Manifest... dracula-theme.theme-dracula
+2024-09-09 20:40:12.413 [info] Installing extension: dracula-theme.theme-dracula
+2024-09-09 20:40:14.734 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /google/devshell/editor/code-oss-for-cloud-shell/out/server-main.js
+2024-09-09 20:40:14.734 [info] Extension signature verification is not done: dracula-theme.theme-dracula
+2024-09-09 20:40:14.783 [info] Extracted extension to file:///home/ackinlino123/.codeoss/extensions/dracula-theme.theme-dracula-2.25.1-universal: dracula-theme.theme-dracula
+2024-09-09 20:40:14.789 [info] Renamed to /home/ackinlino123/.codeoss/extensions/dracula-theme.theme-dracula-2.25.1-universal
+2024-09-09 20:40:14.792 [info] Extracting extension completed. dracula-theme.theme-dracula
+2024-09-09 20:40:14.799 [info] Extension installed successfully: dracula-theme.theme-dracula

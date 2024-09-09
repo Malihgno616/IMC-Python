@@ -1,0 +1,15 @@
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '/home/ackinlino123/.codeoss/extensions/.5003b323-5766-493d-9559-d2fb9d3f8351/package.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/ackinlino123/.codeoss/extensions/.5003b323-5766-493d-9559-d2fb9d3f8351/package.json'
+}
+
+Node.js v18.18.2
+[Error - 8:40:15 PM] Server process exited with code 1.
+[Info  - 8:40:15 PM] Connection to server got closed. Server will restart.
+true
